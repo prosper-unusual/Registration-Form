@@ -1,8 +1,25 @@
 body {
-    background-color: aqua;
+    background-color: darkcyan
+    
 }
 
 h1 {
     text-align: center;
-    color: black;
+    color: white
 }
+
+p{
+    color: white;
+    text-align: center;
+}
+
+form {
+    color: white;
+}
+
+pre {
+    text-align: center;
+}
+
+
+
